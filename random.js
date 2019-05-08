@@ -1,0 +1,1 @@
+document.getElementById("random").innerHTML = Math.ceil(Math.random() * 1000 -( 500));
